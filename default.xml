@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
+  <remote  name="origin"
            fetch=".."
            review="https://github.com/" />
   <default revision="master"
-           remote="aosp"
+           remote="origin"
            sync-j="4" />
 		   
   <project path="Android-PullToRefresh" name="chrisbanes/Android-PullToRefresh" />

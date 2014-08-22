@@ -232,7 +232,7 @@
   <project path="memento" name="mttkay/memento" />
   <project path="FreeFlow" name="Comcast/FreeFlow" />
   <project path="android-gesture-detectors" name="Almeros/android-gesture-detectors" />
-  <project path="mapbox-android-sdk" name="mapbox/mapbox-android-sdk" />
+<!--  <project path="mapbox-android-sdk" name="mapbox/mapbox-android-sdk" /> -->
   <project path="activityanimation" name="flavienlaurent/activityanimation" />
   <project path="kryonet" name="EsotericSoftware/kryonet" />
   <project path="rebound" name="facebook/rebound" />

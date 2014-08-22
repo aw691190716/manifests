@@ -240,7 +240,6 @@
   <project path="Magnet" name="premnirmal/Magnet" />
   <project path="parceler" name="johncarl81/parceler" />
   <project path="AcDisplay" name="AChep/AcDisplay" />
-  <project path="linux" name="torvalds/linux" />
   <project path="zxing" name="zxing/zxing" />
   <project path="photup" name="chrisbanes/photup" />
   <project path="github-android" name="github/android" />

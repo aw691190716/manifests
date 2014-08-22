@@ -304,6 +304,6 @@
   <project path="KJFrameForAndroid" name="kymjs/KJFrameForAndroid" />
   <project path="osmdroid" name="osmdroid/osmdroid" />
   <project path="pinyin4j" name="belerweb/pinyin4j" />
-  <project path="ThinkAndroid" name="kymjs/ThinkAndroid" />
+  <project path="ThinkAndroid" name="white-cat/ThinkAndroid" />
 
 </manifest>

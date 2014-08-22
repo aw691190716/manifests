@@ -192,7 +192,7 @@
   <project path="android-gpuimage" name="CyberAgent/android-gpuimage" />
   <project path="AndroidFaceCropper" name="lafosca/AndroidFaceCropper" />
   <project path="android-video-crop" name="dmytrodanylyk/android-video-crop" />
-  <project path="svg-android" name="japgolly/svg-androidhttps：//github.com/japgolly/svg-android" />
+  <project path="svg-android" name="japgolly/svg-android" />
   <project path="android-visualizer" name="felixpalmer/android-visualizer" />
   <project path="ExoPlayer" name="google/ExoPlayer" />
   <project path="EventBus" name="greenrobot/EventBus" />

@@ -8,6 +8,7 @@
            remote="origin"
            sync-j="4" />
 		   
+  <project path="android-open-project" name="Trinea/android-open-project" />
   <project path="Android-PullToRefresh" name="chrisbanes/Android-PullToRefresh" />
   <project path="android-pulltorefresh" name="johannilsson/android-pulltorefresh" />
   <project path="AndroidCommon" name="Trinea/AndroidCommon" />
@@ -294,5 +295,15 @@
   <project path="android-resource-remover" name="KeepSafe/android-resource-remover" />
   <project path="telescope" name="mattprecious/telescope" />
   <project path="android-lifecycle" name="xxv/android-lifecycle" />
+  <project path="AndroidAsync" name="koush/AndroidAsync" />
+  <project path="androidkit" name="kymjs/androidkit" />
+  <project path="android-smart-image-view" name="loopj/android-smart-image-view" />
+  <project path="android-websockets" name="koush/android-websockets" />
+  <project path="fqrouter" name="fqrouter/fqrouter" />
+  <project path="iosched" name="google/iosched" />
+  <project path="KJFrameForAndroid" name="kymjs/KJFrameForAndroid" />
+  <project path="osmdroid" name="osmdroid/osmdroid" />
+  <project path="pinyin4j" name="belerweb/pinyin4j" />
+  <project path="ThinkAndroid" name="kymjs/ThinkAndroid" />
 
 </manifest>

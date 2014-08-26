@@ -179,7 +179,7 @@
   <project path="android-switch-backport" name="BoD/android-switch-backport" />
   <project path="android-datepicker" name="SimonVT/android-datepicker" />
   <project path="GlowPadBackport" name="frakbot/GlowPadBackport" />
-<!--  <project path="cocos2d-x" name="cocos2d/cocos2d-x" /> -->
+  <project path="cocos2d-x" name="cocos2d/cocos2d-x" revision="v3"/>
   <project path="VitamioBundle" name="yixia/VitamioBundle" />
   <project path="PhotoProcessing" name="lightbox/PhotoProcessing" />
   <project path="android-stackblur" name="kikoso/android-stackblur" />

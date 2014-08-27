@@ -305,5 +305,13 @@
   <project path="osmdroid" name="osmdroid/osmdroid" />
   <project path="pinyin4j" name="belerweb/pinyin4j" />
   <project path="ThinkAndroid" name="white-cat/ThinkAndroid" />
+  <project path="android-mapviewballoons" name="jgilfelt/android-mapviewballoons" />
+  <project path="android-viewflow" name="pakerfeldt/android-viewflow" />
+  <project path="Anki-Android" name="ankidroid/Anki-Android" />
+  <project path="GreenDroid" name="cyrilmottier/GreenDroid" />
+  <project path="PushSharp" name="Redth/PushSharp" />
+  <project path="XobotOS" name="xamarin/XobotOS" />
+  <project path="android_page_curl" name="harism/android_page_curl" />
+  <project path="DiskLruCache" name="JakeWharton/DiskLruCache" />
 
 </manifest>

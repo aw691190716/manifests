@@ -11,7 +11,15 @@
 7、osmdroid                    https://github.com/osmdroid/osmdroid<br/>
 8、pinyin4j                    https://github.com/belerweb/pinyin4j<br/>
 9、ThinkAndroid                https://github.com/white-cat/ThinkAndroid<br/>
-10、其余的项目参见地址         https://github.com/Trinea/android-open-project<br/>
+10、android-mapviewballoons    https://github.com/jgilfelt/android-mapviewballoons<br/>
+11、android-viewflow           https://github.com/pakerfeldt/android-viewflow<br/>
+12、Anki-Android               https://github.com/ankidroid/Anki-Android<br/>
+13、GreenDroid                 https://github.com/cyrilmottier/GreenDroid<br/>
+14、PushSharp                  https://github.com/Redth/PushSharp<br/>
+15、XobotOS                    https://github.com/xamarin/XobotOS<br/>
+16、android_page_curl          https://github.com/harism/android_page_curl<br/>
+17、DiskLruCache               https://github.com/JakeWharton/DiskLruCache<br/>
+18、其余的项目参见地址         https://github.com/Trinea/android-open-project<br/>
 
 使用该项目需要安装git和repo，repo的安装和使用介绍具体的参见http://source.android.com/source/downloading.html<br/>http://source.android.com/source/using-repo.html<br/>
 安装repo：<br/>

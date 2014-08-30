@@ -296,7 +296,7 @@
   <project path="telescope" name="mattprecious/telescope" />
   <project path="android-lifecycle" name="xxv/android-lifecycle" />
   <project path="AndroidAsync" name="koush/AndroidAsync" />
-  <project path="androidkit" name="kymjs/androidkit" />
+  <project path="androidkit" name="msdx/androidkit" />
   <project path="android-smart-image-view" name="loopj/android-smart-image-view" />
   <project path="android-websockets" name="koush/android-websockets" />
   <project path="fqrouter" name="fqrouter/fqrouter" />
@@ -313,5 +313,6 @@
   <project path="XobotOS" name="xamarin/XobotOS" />
   <project path="android_page_curl" name="harism/android_page_curl" />
   <project path="DiskLruCache" name="JakeWharton/DiskLruCache" />
+  <project path="FFmpeg-Android" name="vecio/FFmpeg-Android" />
 
 </manifest>

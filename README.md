@@ -2,7 +2,7 @@
 
 各项目相关的介绍以及相关的内容或License参见地址：
 
-1、androidkit                  https://github.com/kymjs/androidkit<br/>
+1、androidkit                  https://github.com/msdx/androidkit<br/>
 2、android-smart-image-view    https://github.com/loopj/android-smart-image-view<br/>
 3、android-websockets          https://github.com/koush/android-websockets<br/>
 4、fqrouter                    https://github.com/fqrouter/fqrouter<br/>
@@ -19,7 +19,8 @@
 15、XobotOS                    https://github.com/xamarin/XobotOS<br/>
 16、android_page_curl          https://github.com/harism/android_page_curl<br/>
 17、DiskLruCache               https://github.com/JakeWharton/DiskLruCache<br/>
-18、其余的项目参见地址         https://github.com/Trinea/android-open-project<br/>
+18、FFmpeg-Android             https://github.com/vecio/FFmpeg-Android<br/>
+19、其余的项目参见地址         https://github.com/Trinea/android-open-project<br/>
 
 使用该项目需要安装git和repo，repo的安装和使用介绍具体的参见http://source.android.com/source/downloading.html<br/>http://source.android.com/source/using-repo.html<br/>
 安装repo：<br/>

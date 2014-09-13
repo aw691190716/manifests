@@ -19,8 +19,10 @@
 15、XobotOS                    https://github.com/xamarin/XobotOS<br/>
 16、android_page_curl          https://github.com/harism/android_page_curl<br/>
 17、DiskLruCache               https://github.com/JakeWharton/DiskLruCache<br/>
-18、FFmpeg-Android             https://github.com/vecio/FFmpeg-Android<br/>
-19、其余的项目参见地址         https://github.com/Trinea/android-open-project<br/>
+18、ffmpeg-android             https://github.com/hiteshsondhi88/ffmpeg-android<br/>
+19、FFMpeg                     https://github.com/havlenapetr/FFMpeg<br/>
+20、AndroidFFmpeg              https://github.com/appunite/AndroidFFmpeg<br/>
+21、其余的项目参见地址         https://github.com/Trinea/android-open-project<br/>
 
 使用该项目需要安装git和repo，repo的安装和使用介绍具体的参见http://source.android.com/source/downloading.html<br/>http://source.android.com/source/using-repo.html<br/>
 安装repo：<br/>

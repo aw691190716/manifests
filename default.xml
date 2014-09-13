@@ -34,6 +34,8 @@
   <project path="MultiChoiceAdapter" name="ManuelPeinado/MultiChoiceAdapter" />
   <project path="EnhancedListView" name="timroes/EnhancedListView" />
   <project path="ListBuddies" name="jpardogo/ListBuddies" />
+  <project path="SwipeMenuListView" name="baoyongzhang/SwipeMenuListView" />
+  <project path="PagingListView" name="nicolasjafelle/PagingListView" />
   <project path="PullToZoomInListView" name="matrixxun/PullToZoomInListView" />
   <project path="ActionBarSherlock" name="JakeWharton/ActionBarSherlock" />
   <project path="ActionBar-PullToRefresh" name="chrisbanes/ActionBar-PullToRefresh" />
@@ -50,8 +52,10 @@
   <project path="AndroidResideMenu" name="SpecialCyCi/AndroidResideMenu" />
   <project path="CircularFloatingActionMenu" name="oguzbilgener/CircularFloatingActionMenu" />
   <project path="NavigationDrawerSI" name="mmBs/NavigationDrawerSI" />
+  <project path="DragLayout" name="BlueMor/DragLayout" />
   <project path="Android-ViewPagerIndicator" name="JakeWharton/Android-ViewPagerIndicator" />
   <project path="JazzyViewPager" name="jfeinstein10/JazzyViewPager" />
+  <project path="JellyViewPager" name="chiemy/JellyViewPager" />
   <project path="Android-DirectionalViewPager" name="JakeWharton/Android-DirectionalViewPager" />
   <project path="FancyCoverFlow" name="davidschreiber/FancyCoverFlow" />
   <project path="AndroidTouchGallery" name="Dreddik/AndroidTouchGallery" />
@@ -68,6 +72,8 @@
   <project path="PagedDragDropGrid" name="mrKlar/PagedDragDropGrid" />
   <project path="Android-DraggableGridViewPager" name="zzhouj/Android-DraggableGridViewPager" />
   <project path="two-way-gridview" name="jess-anders/two-way-gridview" />
+  <project path="PagingGridView" name="nicolasjafelle/PagingGridView" />
+  <project path="AsymmetricGridView" name="felipecsl/AsymmetricGridView" />
   <project path="PhotoView" name="chrisbanes/PhotoView" />
   <project path="android-gif-drawable" name="koral--/android-gif-drawable" />
   <project path="ImageViewEx" name="frapontillo/ImageViewEx" />
@@ -104,6 +110,9 @@
   <project path="android-saripaar" name="ragunathjawahar/android-saripaar" />
   <project path="JumpingBeans" name="frakbot/JumpingBeans" />
   <project path="fancybuttons" name="medyo/fancybuttons" />
+  <project path="Android-RobotoTextView" name="johnkil/Android-RobotoTextView" />
+  <project path="android-wizardpager" name="romannurik/android-wizardpager" />
+  <project path="RippleView" name="siriscac/RippleView" />
   <project path="discrollview" name="flavienlaurent/discrollview" />
   <project path="PullScrollView" name="MarkMjw/PullScrollView" />
   <project path="ParallaxScrollView" name="chrisjenx/ParallaxScrollView" />
@@ -140,6 +149,7 @@
   <project path="TableFixHeaders" name="InQBarna/TableFixHeaders" />
   <project path="Inscription" name="MartinvanZ/Inscription" />
   <project path="ActivityTransition" name="ophilbert/ActivityTransition" />
+  <project path="GlowPadBackport" name="rock3r/GlowPadBackport" />
   <project path="GlowPadView" name="nadavfima/GlowPadView" />
   <project path="range-bar" name="edmodo/range-bar" />
   <project path="chromeview" name="pwnall/chromeview" />
@@ -149,12 +159,14 @@
   <project path="Swipeable-Cards" name="kikoso/Swipeable-Cards" />
   <project path="EdgeEffectOverride" name="AndroidAlliance/EdgeEffectOverride" />
   <project path="android-pinned-header-listviews" name="rtyley/android-pinned-header-listviews" />
+  <project path="AndroidSwipeLayout" name="daimajia/AndroidSwipeLayout" />
   <project path="androidannotations" name="excilys/androidannotations" />
   <project path="roboguice" name="roboguice/roboguice" />
   <project path="butterknife" name="JakeWharton/butterknife" />
   <project path="dagger" name="square/dagger" />
   <project path="Android-Universal-Image-Loader" name="nostra13/Android-Universal-Image-Loader" />
   <project path="picasso" name="square/picasso" />
+  <project path="cube-sdk" name="etao-open-source/cube-sdk" />
   <project path="android-async-http" name="loopj/android-async-http" />
   <project path="androidquery" name="androidquery/androidquery" />
   <project path="async-http-client" name="AsyncHttpClient/async-http-client" />
@@ -241,6 +253,9 @@
   <project path="Magnet" name="premnirmal/Magnet" />
   <project path="parceler" name="johncarl81/parceler" />
   <project path="AcDisplay" name="AChep/AcDisplay" />
+  <project path="QrCodeScan" name="SkillCollege/QrCodeScan" />
+  <project path="AndroidScreenShotService" name="Android-ScreenShot/AndroidScreenShotService" />
+  <project path="linux" name="torvalds/linux" />
   <project path="zxing" name="zxing/zxing" />
   <project path="photup" name="chrisbanes/photup" />
   <project path="github-android" name="github/android" />
@@ -266,6 +281,7 @@
   <project path="dagger-intellij-plugin" name="square/dagger-intellij-plugin" />
   <project path="androidgendrawable-maven-plugin" name="avianey/androidgendrawable-maven-plugin" />
   <project path="AndroidAssetStudio" name="romannurik/AndroidAssetStudio" />
+  <project path="jsonschema2pojo" name="joelittlejohn/jsonschema2pojo" />
   <project path="Quality-Tools-for-Android" name="stephanenicolas/Quality-Tools-for-Android" />
   <project path="robolectric" name="robolectric/robolectric" />
   <project path="fest-android" name="square/fest-android" />
@@ -313,6 +329,8 @@
   <project path="XobotOS" name="xamarin/XobotOS" />
   <project path="android_page_curl" name="harism/android_page_curl" />
   <project path="DiskLruCache" name="JakeWharton/DiskLruCache" />
-  <project path="FFmpeg-Android" name="vecio/FFmpeg-Android" />
+  <project path="ffmpeg-android" name="hiteshsondhi88/ffmpeg-android" />
+  <project path="FFMpeg" name="havlenapetr/FFMpeg" />
+  <project path="AndroidFFmpeg" name="appunite/AndroidFFmpeg" />
 
 </manifest>

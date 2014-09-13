@@ -149,7 +149,7 @@
   <project path="TableFixHeaders" name="InQBarna/TableFixHeaders" />
   <project path="Inscription" name="MartinvanZ/Inscription" />
   <project path="ActivityTransition" name="ophilbert/ActivityTransition" />
-  <project path="GlowPadBackport" name="rock3r/GlowPadBackport" />
+  <project path="GlowPadBackport-rock3r" name="rock3r/GlowPadBackport" />
   <project path="GlowPadView" name="nadavfima/GlowPadView" />
   <project path="range-bar" name="edmodo/range-bar" />
   <project path="chromeview" name="pwnall/chromeview" />

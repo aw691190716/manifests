@@ -332,5 +332,6 @@
   <project path="ffmpeg-android" name="hiteshsondhi88/ffmpeg-android" />
   <project path="FFMpeg" name="havlenapetr/FFMpeg" />
   <project path="AndroidFFmpeg" name="appunite/AndroidFFmpeg" />
+  <project path="android-database-sqlcipher" name="sqlcipher/android-database-sqlcipher" />
 
 </manifest>

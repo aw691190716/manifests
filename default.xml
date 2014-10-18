@@ -36,7 +36,9 @@
   <project path="ListBuddies" name="jpardogo/ListBuddies" />
   <project path="SwipeMenuListView" name="baoyongzhang/SwipeMenuListView" />
   <project path="PagingListView" name="nicolasjafelle/PagingListView" />
+  <project path="PullZoomView" name="Frank-Zhu/PullZoomView" />
   <project path="PullToZoomInListView" name="matrixxun/PullToZoomInListView" />
+  <project path="CalendarListview" name="traex/CalendarListview" />
   <project path="ActionBarSherlock" name="JakeWharton/ActionBarSherlock" />
   <project path="ActionBar-PullToRefresh" name="chrisbanes/ActionBar-PullToRefresh" />
   <project path="FadingActionBar" name="ManuelPeinado/FadingActionBar" />
@@ -64,6 +66,8 @@
   <project path="PagerSlidingTabStrip" name="astuetz/PagerSlidingTabStrip" />
   <project path="ViewPager3D" name="inovex/ViewPager3D" />
   <project path="transparent-over-animtabsview" name="wuyexiong/transparent-over-animtabsview" />
+  <project path="LoopingViewPager" name="imbryk/LoopingViewPager" />
+  <project path="android_page_curl" name="harism/android_page_curl" />
   <project path="StaggeredGridView" name="maurycyw/StaggeredGridView" />
   <project path="AndroidStaggeredGrid" name="etsy/AndroidStaggeredGrid" />
   <project path="PinterestLikeAdapterView" name="GDG-Korea/PinterestLikeAdapterView" />
@@ -83,6 +87,7 @@
   <project path="ImageViewZoom" name="sephiroth74/ImageViewZoom" />
   <project path="KenBurnsView" name="flavioarfaria/KenBurnsView" />
   <project path="CustomShapeImageView" name="MostafaGazar/CustomShapeImageView" />
+  <project path="android-shape-imageview" name="siyamed/android-shape-imageview" />
   <project path="SmoothProgressBar" name="castorflex/SmoothProgressBar" />
   <project path="ProgressWheel" name="Todd-Davies/ProgressWheel" />
   <project path="android-square-progressbar" name="mrwonderman/android-square-progressbar" />
@@ -113,6 +118,7 @@
   <project path="Android-RobotoTextView" name="johnkil/Android-RobotoTextView" />
   <project path="android-wizardpager" name="romannurik/android-wizardpager" />
   <project path="RippleView" name="siriscac/RippleView" />
+  <project path="android-floatinglabel-widgets" name="marvinlabs/android-floatinglabel-widgets" />
   <project path="discrollview" name="flavienlaurent/discrollview" />
   <project path="PullScrollView" name="MarkMjw/PullScrollView" />
   <project path="ParallaxScrollView" name="chrisjenx/ParallaxScrollView" />
@@ -149,10 +155,12 @@
   <project path="TableFixHeaders" name="InQBarna/TableFixHeaders" />
   <project path="Inscription" name="MartinvanZ/Inscription" />
   <project path="ActivityTransition" name="ophilbert/ActivityTransition" />
+  <project path="EasyAndroidAnimations" name="2359media/EasyAndroidAnimations" />
   <project path="GlowPadBackport-rock3r" name="rock3r/GlowPadBackport" />
   <project path="GlowPadView" name="nadavfima/GlowPadView" />
   <project path="range-bar" name="edmodo/range-bar" />
   <project path="chromeview" name="pwnall/chromeview" />
+  <project path="android-phased-seek-bar" name="ademar111190/android-phased-seek-bar" />
   <project path="AndroidSliderPreference" name="jayschwa/AndroidSliderPreference" />
   <project path="ShowcaseView" name="amlcurran/ShowcaseView" />
   <project path="android-segmented-control" name="hoang8f/android-segmented-control" />
@@ -208,6 +216,7 @@
   <project path="svg-android" name="japgolly/svg-android" />
   <project path="android-visualizer" name="felixpalmer/android-visualizer" />
   <project path="ExoPlayer" name="google/ExoPlayer" />
+  <project path="DanmakuFlameMaster" name="ctiao/DanmakuFlameMaster" />
   <project path="EventBus" name="greenrobot/EventBus" />
   <project path="otto" name="square/otto" />
   <project path="gast-lib" name="gast-lib/gast-lib" />
@@ -225,10 +234,13 @@
   <project path="sqlcipher" name="sqlcipher/sqlcipher" />
   <project path="conceal" name="facebook/conceal" />
   <project path="Android-PasscodeLock" name="wordpress-mobile/Android-PasscodeLock" />
+  <project path="Android-InsecureBankv2" name="dineshshetty/Android-InsecureBankv2" />
   <project path="dynamic-load-apk" name="singwhatiwanna/dynamic-load-apk" />
+  <project path="AndroidDynamicLoader" name="mmin18/AndroidDynamicLoader" />
   <project path="xCombine" name="wyouflf/xCombine" />
   <project path="apf" name="umeng/apf" />
   <project path="purePDF" name="sephiroth74/purePDF" />
+  <project path="android-pdfview" name="JoanZapata/android-pdfview" />
   <project path="Office-365-SDK-for-Android" name="OfficeDev/Office-365-SDK-for-Android" />
   <project path="OpenSpritz-Android" name="OnlyInAmerica/OpenSpritz-Android" />
   <project path="jsoup" name="jhy/jsoup" />
@@ -250,6 +262,7 @@
   <project path="kryonet" name="EsotericSoftware/kryonet" />
   <project path="rebound" name="facebook/rebound" />
   <project path="AndroidSocialNetworks" name="antonkrasov/AndroidSocialNetworks" />
+  <project path="SmartAppUpdates" name="cundong/SmartAppUpdates" />
   <project path="Magnet" name="premnirmal/Magnet" />
   <project path="parceler" name="johncarl81/parceler" />
   <project path="AcDisplay" name="AChep/AcDisplay" />
@@ -282,6 +295,7 @@
   <project path="androidgendrawable-maven-plugin" name="avianey/androidgendrawable-maven-plugin" />
   <project path="AndroidAssetStudio" name="romannurik/AndroidAssetStudio" />
   <project path="jsonschema2pojo" name="joelittlejohn/jsonschema2pojo" />
+  <project path="9-Patch-Resizer" name="redwarp/9-Patch-Resizer" />
   <project path="Quality-Tools-for-Android" name="stephanenicolas/Quality-Tools-for-Android" />
   <project path="robolectric" name="robolectric/robolectric" />
   <project path="fest-android" name="square/fest-android" />
@@ -302,6 +316,7 @@
   <project path="maven-android-sdk-deployer" name="mosabua/maven-android-sdk-deployer" />
   <project path="sdk-manager-plugin" name="JakeWharton/sdk-manager-plugin" />
   <project path="gradle-protobuf-plugin" name="andrewkroh/gradle-protobuf-plugin" />
+  <project path="chromeadb" name="importre/chromeadb" />
   <project path="ViewServer" name="romainguy/ViewServer" />
   <project path="android-grid-wichterle" name="inmite/android-grid-wichterle" />
   <project path="Catlog" name="nolanlawson/Catlog" />
@@ -327,7 +342,6 @@
   <project path="GreenDroid" name="cyrilmottier/GreenDroid" />
   <project path="PushSharp" name="Redth/PushSharp" />
   <project path="XobotOS" name="xamarin/XobotOS" />
-  <project path="android_page_curl" name="harism/android_page_curl" />
   <project path="DiskLruCache" name="JakeWharton/DiskLruCache" />
   <project path="ffmpeg-android" name="hiteshsondhi88/ffmpeg-android" />
   <project path="FFMpeg" name="havlenapetr/FFMpeg" />

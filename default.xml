@@ -347,5 +347,6 @@
   <project path="FFMpeg" name="havlenapetr/FFMpeg" />
   <project path="AndroidFFmpeg" name="appunite/AndroidFFmpeg" />
   <project path="android-database-sqlcipher" name="sqlcipher/android-database-sqlcipher" />
+  <project path="usb-serial-for-android" name="mik3y/usb-serial-for-android" />
 
 </manifest>

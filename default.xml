@@ -7,10 +7,11 @@
   <default revision="master"
            remote="origin"
            sync-j="4" />
-		   
+
   <project path="Trinea/android-open-project" name="Trinea/android-open-project" />
   <project path="chrisbanes/Android-PullToRefresh" name="chrisbanes/Android-PullToRefresh" />
   <project path="johannilsson/android-pulltorefresh" name="johannilsson/android-pulltorefresh" />
+  <project path="liaohuqiu/android-Ultra-Pull-To-Refresh" name="liaohuqiu/android-Ultra-Pull-To-Refresh" />
   <project path="Trinea/AndroidCommon" name="Trinea/AndroidCommon" />
   <project path="bauerca/drag-sort-listview" name="bauerca/drag-sort-listview" />
   <project path="47deg/android-swipelistview" name="47deg/android-swipelistview" />
@@ -43,6 +44,8 @@
   <project path="chiemy/PullSeparateListView" name="chiemy/PullSeparateListView" />
   <project path="traex/ExpandableLayout" name="traex/ExpandableLayout" />
   <project path="JorgeCastilloPrz/PagedHeadListView" name="JorgeCastilloPrz/PagedHeadListView" />
+  <project path="xyczero/Android-CustomSwipeListView" name="xyczero/Android-CustomSwipeListView" />
+  <project path="Yalantis/Pull-to-Refresh.Rentals-Android" name="Yalantis/Pull-to-Refresh.Rentals-Android" />
   <project path="JakeWharton/ActionBarSherlock" name="JakeWharton/ActionBarSherlock" />
   <project path="chrisbanes/ActionBar-PullToRefresh" name="chrisbanes/ActionBar-PullToRefresh" />
   <project path="ManuelPeinado/FadingActionBar" name="ManuelPeinado/FadingActionBar" />
@@ -61,6 +64,8 @@
   <project path="BlueMor/DragLayout" name="BlueMor/DragLayout" />
   <project path="ikimuhendis/LDrawer" name="ikimuhendis/LDrawer" />
   <project path="shamanland/floating-action-button" name="shamanland/floating-action-button" />
+  <project path="Yalantis/Side-Menu.Android" name="Yalantis/Side-Menu.Android" />
+  <project path="Yalantis/Context-Menu.Android" name="Yalantis/Context-Menu.Android" />
   <project path="JakeWharton/Android-ViewPagerIndicator" name="JakeWharton/Android-ViewPagerIndicator" />
   <project path="jfeinstein10/JazzyViewPager" name="jfeinstein10/JazzyViewPager" />
   <project path="chiemy/JellyViewPager" name="chiemy/JellyViewPager" />
@@ -90,12 +95,14 @@
   <project path="koral--/android-gif-drawable" name="koral--/android-gif-drawable" />
   <project path="frapontillo/ImageViewEx" name="frapontillo/ImageViewEx" />
   <project path="vinc3m1/RoundedImageView" name="vinc3m1/RoundedImageView" />
+  <project path="pungrue26/SelectableRoundedImageView" name="pungrue26/SelectableRoundedImageView" />
   <project path="MichaelEvans/ColorArt" name="MichaelEvans/ColorArt" />
   <project path="hdodenhof/CircleImageView" name="hdodenhof/CircleImageView" />
   <project path="sephiroth74/ImageViewZoom" name="sephiroth74/ImageViewZoom" />
   <project path="flavioarfaria/KenBurnsView" name="flavioarfaria/KenBurnsView" />
   <project path="MostafaGazar/CustomShapeImageView" name="MostafaGazar/CustomShapeImageView" />
   <project path="siyamed/android-shape-imageview" name="siyamed/android-shape-imageview" />
+  <project path="amulyakhare/TextDrawable" name="amulyakhare/TextDrawable" />
   <project path="castorflex/SmoothProgressBar" name="castorflex/SmoothProgressBar" />
   <project path="Todd-Davies/ProgressWheel" name="Todd-Davies/ProgressWheel" />
   <project path="mrwonderman/android-square-progressbar" name="mrwonderman/android-square-progressbar" />
@@ -105,7 +112,9 @@
   <project path="torryharris/TH-ProgressButton" name="torryharris/TH-ProgressButton" />
   <project path="daimajia/NumberProgressBar" name="daimajia/NumberProgressBar" />
   <project path="Sefford/CircularProgressDrawable" name="Sefford/CircularProgressDrawable" />
+  <project path="akexorcist/Android-RoundCornerProgressBar" name="akexorcist/Android-RoundCornerProgressBar" />
   <project path="dmytrodanylyk/circular-progress-button" name="dmytrodanylyk/circular-progress-button" />
+  <project path="john990/WaveView" name="john990/WaveView" />
   <project path="vekexasia/android-edittext-validator" name="vekexasia/android-edittext-validator" />
   <project path="rockerhieu/emojicon" name="rockerhieu/emojicon" />
   <project path="markushi/android-circlebutton" name="markushi/android-circlebutton" />
@@ -126,13 +135,17 @@
   <project path="johnkil/Android-RobotoTextView" name="johnkil/Android-RobotoTextView" />
   <project path="romannurik/android-wizardpager" name="romannurik/android-wizardpager" />
   <project path="siriscac/RippleView" name="siriscac/RippleView" />
+  <project path="traex/RippleEffect" name="traex/RippleEffect" />
   <project path="marvinlabs/android-floatinglabel-widgets" name="marvinlabs/android-floatinglabel-widgets" />
   <project path="rengwuxian/MaterialEditText" name="rengwuxian/MaterialEditText" />
   <project path="ajaysahani/MultiActionTextView" name="ajaysahani/MultiActionTextView" />
+  <project path="zcweng/ToggleButton" name="zcweng/ToggleButton" />
+  <project path="Manabu-GT/ExpandableTextView" name="Manabu-GT/ExpandableTextView" />
   <project path="flavienlaurent/discrollview" name="flavienlaurent/discrollview" />
   <project path="MarkMjw/PullScrollView" name="MarkMjw/PullScrollView" />
   <project path="chrisjenx/ParallaxScrollView" name="chrisjenx/ParallaxScrollView" />
   <project path="ideaismobile/AKParallax-Android" name="ideaismobile/AKParallax-Android" />
+  <project path="ksoichiro/Android-ObservableScrollView" name="ksoichiro/Android-ObservableScrollView" />
   <project path="square/android-times-square" name="square/android-times-square" />
   <project path="kenumir/android-calendar-card" name="kenumir/android-calendar-card" />
   <project path="Mirkoddd/GoogleDateTimePickers" name="Mirkoddd/GoogleDateTimePickers" />
@@ -146,6 +159,7 @@
   <project path="soarcn/UndoBar" name="soarcn/UndoBar" />
   <project path="jenzz/Android-UndoBar" name="jenzz/Android-UndoBar" />
   <project path="mikepenz/Android-ActionItemBadge" name="mikepenz/Android-ActionItemBadge" />
+  <project path="MrEngineer13/SnackBar" name="MrEngineer13/SnackBar" />
   <project path="openaphid/android-flip" name="openaphid/android-flip" />
   <project path="castorflex/FlipImageView" name="castorflex/FlipImageView" />
   <project path="alexvasilkov/FoldableLayout" name="alexvasilkov/FoldableLayout" />
@@ -193,6 +207,9 @@
   <project path="Diolor/Swipecards" name="Diolor/Swipecards" />
   <project path="TriggerTrap/SeekArc" name="TriggerTrap/SeekArc" />
   <project path="tvbarthel/BlurDialogFragment" name="tvbarthel/BlurDialogFragment" />
+  <project path="yahoo/android-range-seek-bar" name="yahoo/android-range-seek-bar" />
+  <project path="oli107/material-range-bar" name="oli107/material-range-bar" />
+  <project path="dexafree/MaterialList" name="dexafree/MaterialList" />
   <project path="excilys/androidannotations" name="excilys/androidannotations" />
   <project path="roboguice/roboguice" name="roboguice/roboguice" />
   <project path="JakeWharton/butterknife" name="JakeWharton/butterknife" />
@@ -219,6 +236,7 @@
   <project path="wyouflf/xUtils" name="wyouflf/xUtils" />
   <project path="yangfuhai/afinal" name="yangfuhai/afinal" />
   <project path="cymcsg/UltimateAndroid" name="cymcsg/UltimateAndroid" />
+  <project path="fengzhizi715/SAF" name="fengzhizi715/SAF" />
   <project path="JakeWharton/NineOldAndroids" name="JakeWharton/NineOldAndroids" />
   <project path="Prototik/HoloEverywhere" name="Prototik/HoloEverywhere" />
   <project path="tobykurien/SherlockNavigationDrawer" name="tobykurien/SherlockNavigationDrawer" />
@@ -331,6 +349,7 @@
   <project path="romannurik/AndroidAssetStudio" name="romannurik/AndroidAssetStudio" />
   <project path="joelittlejohn/jsonschema2pojo" name="joelittlejohn/jsonschema2pojo" />
   <project path="redwarp/9-Patch-Resizer" name="redwarp/9-Patch-Resizer" />
+  <project path="westlinkin/AndroidLocalizationer" name="westlinkin/AndroidLocalizationer" />
   <project path="stephanenicolas/Quality-Tools-for-Android" name="stephanenicolas/Quality-Tools-for-Android" />
   <project path="robolectric/robolectric" name="robolectric/robolectric" />
   <project path="square/fest-android" name="square/fest-android" />
@@ -386,6 +405,7 @@
   <project path="bugsnag/bugsnag-android" name="bugsnag/bugsnag-android" />
   <project path="google/material-design-icons" name="google/material-design-icons" />
   <project path="PGSSoft/scrollscreenshot" name="PGSSoft/scrollscreenshot" />
+  <project path="theDazzler/droidicon" name="theDazzler/droidicon" />
   <project path="JackCho/MenuDrawerDemo" name="JackCho/MenuDrawerDemo" />
   <project path="telecapoland/jamendo-android" name="telecapoland/jamendo-android" />
   <project path="WuXiaolong/WeWin" name="WuXiaolong/WeWin" />

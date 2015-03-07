@@ -160,6 +160,7 @@
   <project path="jenzz/Android-UndoBar" name="jenzz/Android-UndoBar" />
   <project path="mikepenz/Android-ActionItemBadge" name="mikepenz/Android-ActionItemBadge" />
   <project path="MrEngineer13/SnackBar" name="MrEngineer13/SnackBar" />
+  <project path="zzz40500/HeadsUp" name="zzz40500/HeadsUp" />
   <project path="openaphid/android-flip" name="openaphid/android-flip" />
   <project path="castorflex/FlipImageView" name="castorflex/FlipImageView" />
   <project path="alexvasilkov/FoldableLayout" name="alexvasilkov/FoldableLayout" />
@@ -210,6 +211,7 @@
   <project path="yahoo/android-range-seek-bar" name="yahoo/android-range-seek-bar" />
   <project path="oli107/material-range-bar" name="oli107/material-range-bar" />
   <project path="dexafree/MaterialList" name="dexafree/MaterialList" />
+  <project path="romainguy/road-trip" name="romainguy/road-trip" />
   <project path="excilys/androidannotations" name="excilys/androidannotations" />
   <project path="roboguice/roboguice" name="roboguice/roboguice" />
   <project path="JakeWharton/butterknife" name="JakeWharton/butterknife" />
@@ -331,6 +333,7 @@
   <project path="danieloeh/AntennaPod" name="danieloeh/AntennaPod" />
   <project path="tvbarthel/ChaseWhisplyProject" name="tvbarthel/ChaseWhisplyProject" />
   <project path="chrislacy/TweetLanes" name="chrislacy/TweetLanes" />
+  <project path="mvarnagiris/Financius" name="mvarnagiris/Financius" />
   <project path="ginatrapani/todo.txt-android" name="ginatrapani/todo.txt-android" />
   <project path="mpcjanssen/simpletask-android" name="mpcjanssen/simpletask-android" />
   <project path="romannurik/muzei" name="romannurik/muzei" />

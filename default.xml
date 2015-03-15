@@ -333,7 +333,10 @@
   <project path="danieloeh/AntennaPod" name="danieloeh/AntennaPod" />
   <project path="tvbarthel/ChaseWhisplyProject" name="tvbarthel/ChaseWhisplyProject" />
   <project path="chrislacy/TweetLanes" name="chrislacy/TweetLanes" />
-  <project path="mvarnagiris/Financius" name="mvarnagiris/Financius" />
+  <project path="mvarnagiris/financius-public" name="mvarnagiris/financius-public" />
+  <project path="mvarnagiris/AndDevUtils" name="mvarnagiris/AndDevUtils" />
+  <project path="mvarnagiris/android-crop" name="mvarnagiris/android-crop" />
+  <project path="mvarnagiris/hellocharts-android" name="mvarnagiris/hellocharts-android" />
   <project path="ginatrapani/todo.txt-android" name="ginatrapani/todo.txt-android" />
   <project path="mpcjanssen/simpletask-android" name="mpcjanssen/simpletask-android" />
   <project path="romannurik/muzei" name="romannurik/muzei" />

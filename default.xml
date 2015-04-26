@@ -247,7 +247,7 @@
   <project path="SimonVT/android-datepicker" name="SimonVT/android-datepicker" />
   <project path="frakbot/GlowPadBackport" name="frakbot/GlowPadBackport" />
   <project path="andkulikov/transitions-everywhere" name="andkulikov/transitions-everywhere" />
-  <project path="cocos2d/cocos2d-x" name="cocos2d/cocos2d-x" revision="v3"/>
+<!--   <project path="cocos2d/cocos2d-x" name="cocos2d/cocos2d-x" revision="v3"/> -->
   <project path="yixia/VitamioBundle" name="yixia/VitamioBundle" />
   <project path="lightbox/PhotoProcessing" name="lightbox/PhotoProcessing" />
   <project path="kikoso/android-stackblur" name="kikoso/android-stackblur" />
@@ -419,4 +419,10 @@
   <project path="looly/hutool" name="looly/hutool" />
   <project path="wzyy2/hoststool-cpp" name="wzyy2/hoststool-cpp" />
   <project path="iBotPeaches/Apktool" name="iBotPeaches/Apktool" />
+  <project path="rovo89/XposedBridge" name="rovo89/XposedBridge" />
+  <project path="rovo89/Xposed" name="rovo89/Xposed" />
+  <project path="rovo89/XposedInstaller" name="rovo89/XposedInstaller" />
+  <project path="rovo89/XposedAppSettings" name="rovo89/XposedAppSettings" />
+  <project path="rovo89/XposedMods" name="rovo89/XposedMods" />
+  <project path="rovo89/XposedExamples" name="rovo89/XposedExamples" />
 </manifest>

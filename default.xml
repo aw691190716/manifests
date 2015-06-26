@@ -46,6 +46,7 @@
   <project path="JorgeCastilloPrz/PagedHeadListView" name="JorgeCastilloPrz/PagedHeadListView" />
   <project path="xyczero/Android-CustomSwipeListView" name="xyczero/Android-CustomSwipeListView" />
   <project path="Yalantis/Pull-to-Refresh.Rentals-Android" name="Yalantis/Pull-to-Refresh.Rentals-Android" />
+  <project path="guanchao/ScrollerCalendar" name="guanchao/ScrollerCalendar" />
   <project path="JakeWharton/ActionBarSherlock" name="JakeWharton/ActionBarSherlock" />
   <project path="chrisbanes/ActionBar-PullToRefresh" name="chrisbanes/ActionBar-PullToRefresh" />
   <project path="ManuelPeinado/FadingActionBar" name="ManuelPeinado/FadingActionBar" />
@@ -115,6 +116,7 @@
   <project path="akexorcist/Android-RoundCornerProgressBar" name="akexorcist/Android-RoundCornerProgressBar" />
   <project path="dmytrodanylyk/circular-progress-button" name="dmytrodanylyk/circular-progress-button" />
   <project path="john990/WaveView" name="john990/WaveView" />
+  <project path="deano2390/FlowTextView" name="deano2390/FlowTextView" />
   <project path="vekexasia/android-edittext-validator" name="vekexasia/android-edittext-validator" />
   <project path="rockerhieu/emojicon" name="rockerhieu/emojicon" />
   <project path="markushi/android-circlebutton" name="markushi/android-circlebutton" />
@@ -140,12 +142,14 @@
   <project path="rengwuxian/MaterialEditText" name="rengwuxian/MaterialEditText" />
   <project path="ajaysahani/MultiActionTextView" name="ajaysahani/MultiActionTextView" />
   <project path="zcweng/ToggleButton" name="zcweng/ToggleButton" />
+  <project path="Leaking/SlideSwitch" name="Leaking/SlideSwitch" />
   <project path="Manabu-GT/ExpandableTextView" name="Manabu-GT/ExpandableTextView" />
   <project path="flavienlaurent/discrollview" name="flavienlaurent/discrollview" />
   <project path="MarkMjw/PullScrollView" name="MarkMjw/PullScrollView" />
   <project path="chrisjenx/ParallaxScrollView" name="chrisjenx/ParallaxScrollView" />
   <project path="ideaismobile/AKParallax-Android" name="ideaismobile/AKParallax-Android" />
   <project path="ksoichiro/Android-ObservableScrollView" name="ksoichiro/Android-ObservableScrollView" />
+  <project path="EverythingMe/OverScrollView" name="EverythingMe/OverScrollView" />
   <project path="square/android-times-square" name="square/android-times-square" />
   <project path="kenumir/android-calendar-card" name="kenumir/android-calendar-card" />
   <project path="Mirkoddd/GoogleDateTimePickers" name="Mirkoddd/GoogleDateTimePickers" />
@@ -189,6 +193,7 @@
   <project path="2359media/EasyAndroidAnimations" name="2359media/EasyAndroidAnimations" />
   <project path="rock3r/GlowPadBackport" name="rock3r/GlowPadBackport" />
   <project path="nadavfima/GlowPadView" name="nadavfima/GlowPadView" />
+  <project path="DreaminginCodeZH/PatternLock" name="DreaminginCodeZH/PatternLock" />
   <project path="edmodo/range-bar" name="edmodo/range-bar" />
   <project path="pwnall/chromeview" name="pwnall/chromeview" />
   <project path="ademar111190/android-phased-seek-bar" name="ademar111190/android-phased-seek-bar" />
@@ -212,6 +217,7 @@
   <project path="oli107/material-range-bar" name="oli107/material-range-bar" />
   <project path="dexafree/MaterialList" name="dexafree/MaterialList" />
   <project path="romainguy/road-trip" name="romainguy/road-trip" />
+  <project path="orhanobut/dialogplus" name="orhanobut/dialogplus" />
   <project path="excilys/androidannotations" name="excilys/androidannotations" />
   <project path="roboguice/roboguice" name="roboguice/roboguice" />
   <project path="JakeWharton/butterknife" name="JakeWharton/butterknife" />
@@ -219,6 +225,7 @@
   <project path="nostra13/Android-Universal-Image-Loader" name="nostra13/Android-Universal-Image-Loader" />
   <project path="square/picasso" name="square/picasso" />
   <project path="etao-open-source/cube-sdk" name="etao-open-source/cube-sdk" />
+  <project path="facebook/fresco" name="facebook/fresco" />
   <project path="loopj/android-async-http" name="loopj/android-async-http" />
   <project path="androidquery/androidquery" name="androidquery/androidquery" />
   <project path="AsyncHttpClient/async-http-client" name="AsyncHttpClient/async-http-client" />
@@ -227,18 +234,22 @@
   <project path="square/okhttp" name="square/okhttp" />
   <project path="square/retrofit" name="square/retrofit" />
   <project path="stephanenicolas/robospice" name="stephanenicolas/robospice" />
+  <project path="shehabic/Droppy" name="shehabic/Droppy" />
   <project path="greenrobot/greenDAO" name="greenrobot/greenDAO" />
   <project path="pardom/ActiveAndroid" name="pardom/ActiveAndroid" />
   <project path="emilsjolander/sprinkles" name="emilsjolander/sprinkles" />
   <project path="realm/realm-java" name="realm/realm-java" />
   <project path="j256/ormlite-android" name="j256/ormlite-android" />
   <project path="SimonVT/schematic" name="SimonVT/schematic" />
+  <project path="Raizlabs/DBFlow" name="Raizlabs/DBFlow" />
   <project path="pyricau/shipfaster" name="pyricau/shipfaster" />
   <project path="pyricau/CleanAndroidCode" name="pyricau/CleanAndroidCode" />
   <project path="wyouflf/xUtils" name="wyouflf/xUtils" />
   <project path="yangfuhai/afinal" name="yangfuhai/afinal" />
   <project path="cymcsg/UltimateAndroid" name="cymcsg/UltimateAndroid" />
   <project path="fengzhizi715/SAF" name="fengzhizi715/SAF" />
+  <project path="hzsweers/barber" name="hzsweers/barber" />
+  <project path="facebook/device-year-class" name="facebook/device-year-class" />
   <project path="JakeWharton/NineOldAndroids" name="JakeWharton/NineOldAndroids" />
   <project path="Prototik/HoloEverywhere" name="Prototik/HoloEverywhere" />
   <project path="tobykurien/SherlockNavigationDrawer" name="tobykurien/SherlockNavigationDrawer" />
@@ -323,6 +334,7 @@
   <project path="gcacace/android-signaturepad" name="gcacace/android-signaturepad" />
   <project path="Mariuxtheone/Teleport" name="Mariuxtheone/Teleport" />
   <project path="MustafaFerhan/DebugLog" name="MustafaFerhan/DebugLog" />
+  <project path="orhanobut/logger" name="orhanobut/logger" />
   <project path="torvalds/linux" name="torvalds/linux" />
   <project path="zxing/zxing" name="zxing/zxing" />
   <project path="chrisbanes/photup" name="chrisbanes/photup" />
@@ -340,6 +352,8 @@
   <project path="ginatrapani/todo.txt-android" name="ginatrapani/todo.txt-android" />
   <project path="mpcjanssen/simpletask-android" name="mpcjanssen/simpletask-android" />
   <project path="romannurik/muzei" name="romannurik/muzei" />
+  <project path="JayFang1993/ScanBook" name="JayFang1993/ScanBook" />
+  <project path="google/iosched" name="google/iosched" />
   <project path="jonfhancock/JsonToJava" name="jonfhancock/JsonToJava" />
   <project path="mcharmas/android-parcelable-intellij-plugin" name="mcharmas/android-parcelable-intellij-plugin" />
   <project path="jeromevdl/android-holo-colors-idea-plugin" name="jeromevdl/android-holo-colors-idea-plugin" />
@@ -367,6 +381,8 @@
   <project path="stormzhang/APT" name="stormzhang/APT" />
   <project path="NetEase/Emmagee" name="NetEase/Emmagee" />
   <project path="xiaocong/uiautomator" name="xiaocong/uiautomator" />
+  <project path="facebook/augmented-traffic-control" name="facebook/augmented-traffic-control" />
+  <project path="facebook/stetho" name="facebook/stetho" />
   <project path="facebook/buck" name="facebook/buck" />
   <project path="jayway/maven-android-plugin" name="jayway/maven-android-plugin" />
   <project path="umeng/umeng-muti-channel-build-tool" name="umeng/umeng-muti-channel-build-tool" />
@@ -390,7 +406,6 @@
   <project path="loopj/android-smart-image-view" name="loopj/android-smart-image-view" />
   <project path="koush/android-websockets" name="koush/android-websockets" />
   <project path="fqrouter/fqrouter" name="fqrouter/fqrouter" />
-  <project path="google/iosched" name="google/iosched" />
   <project path="kymjs/KJFrameForAndroid" name="kymjs/KJFrameForAndroid" />
   <project path="osmdroid/osmdroid" name="osmdroid/osmdroid" />
   <project path="belerweb/pinyin4j" name="belerweb/pinyin4j" />
